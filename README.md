@@ -1,11 +1,11 @@
 ### MIS PROYECTOS 👋
 
 
-[Repositorio de Programación Competitiva](./problems/aer100/src/Main.java)</br> 
-[Solucionador Automático de Sudokus](./problems/aer100/src/Main.java)</br> 
-[Generador Aleatorio de Laberintos y Simulación Gráfica de su Solución](./problems/aer100/src/Main.java)</br> 
-[Aplicación Web 1: Repositorio de Productos Fitosanitarios con Thymeleaf](./problems/aer100/src/Main.java)</br> 
-[Aplicación Web 2: Listado de Productos Fitosanitarios con Thymeleaf y JavaScript](./problems/aer100/src/Main.java)</br> 
+[Repositorio de Programación Competitiva](https://github.com/SergioSalazarC/CompetitiveProgrammingCodes)</br> 
+[Solucionador Automático de Sudokus](https://github.com/SergioSalazarC/SudokuSolver)</br> 
+[Generador Aleatorio de Laberintos y Simulación Gráfica de su Solución](https://github.com/SergioSalazarC/Laberinto)</br> 
+[Aplicación Web 1: Repositorio de Productos Fitosanitarios con Thymeleaf](https://github.com/SergioSalazarC/AplicacionWeb1)</br> 
+[Aplicación Web 2: Listado de Productos Fitosanitarios con Thymeleaf y JavaScript](https://github.com/SergioSalazarC/AplicacionWeb2)</br> 
 <!--
 **SergioSalazarC/SergioSalazarC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
